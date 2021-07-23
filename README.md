@@ -4,4 +4,5 @@
 ~072_, 데이터 이해, 전처리, lstm 이해
   0720 - 교수님 피드백, 더 빠른 알고리즘 추천, dic_sub, dic_item 생성, dic_sub_charttime2idx 생성 시도.
   0722 - dic_sub_charttime2idx value 설정 오류
+  0723 - dic_sub_charttime2idx 정상 생성, time_idx - idx가 계속 0이 나올 수가 있나? index인데..? -> 나올 수 있을지도..?
 ```
