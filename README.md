@@ -11,7 +11,9 @@
   0724 - 최종 3차원 array 생성 코드에 문제 있나 확인. 문제 없음. 실행 됐고 array 생성 완료. (time_idx - idx가 계속 0이 나올 수 있는거였음. itemid 고려하면 가능)
          최종 array 파일로 저장. => npy, pickle 두 가지 버전으로 저장 가능.
   0727 - lstm 실행해봄, 정확도 최고 63%나옴. overfitting 심했음.
-         코드 뒤엎으라고 하심.
+         교수님 피드백, 코드 뒤엎으라고 하심.
          machine learning 및 rnn 설명 또 들음.
-         Jeongmin Lee (leej35) 이 분 논문이 우리가 하려는 거랑 제일 비슷했음.  
+         Jeongmin Lee (leej35) 이 분 논문이 우리가 하려는 거랑 제일 비슷했음.
 ```
+0727 피드백
+![KakaoTalk_20210727_155706173](https://user-images.githubusercontent.com/56033779/127132809-133d3eb0-1c60-4ae0-b512-22e9b4188a25.jpg)
